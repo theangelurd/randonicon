@@ -1,7 +1,3 @@
 # randonicon
-This mod is made by stripey76, i just moved it to a github repository.
-An expansion mod for Mindustry, does not modify vanilla content (much), developed by stripey76 with suggestions from our discord community.
-Contributors
-Blimp
-theangelurd
-Join us on discord! https://discord.gg/fH5Ezqx
+This mod is made by stripey76, The mod won't be moved essentially here, but you will have the link to the discord server right here.
+https://discord.gg/fH5Ezqx
